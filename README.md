@@ -1,2 +1,2 @@
 # pyTCPortScanner
-Simple multy tread Tcp Port Scanner 
+Simple multy thread Tcp Port Scanner 
